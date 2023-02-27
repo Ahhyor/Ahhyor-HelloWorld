@@ -14,7 +14,8 @@ public class Lab {
      * 
      * @return "Hello, world!"
      */
-    public String sayHello(){
-        return "change me";
+    public static void main (String[] args) {}
+        String sayHello(){
+            return "Hello, world!";
     }
 }
